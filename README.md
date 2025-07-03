@@ -1,1 +1,2 @@
-# pumpfun-rpc-tutorial
+# How to Parse Pumpfun Trades with gRPC
+
