@@ -1,5 +1,7 @@
 # How to Parse Pumpfun Trades with gRPC
 
+> Note: gRPC can be a real headache, but you can skip all the hard parts by using Bitquery's Shred Streams or GraphQL streams. Get started [here](https://ide.bitquery.io/Pumpfun-DEX-Trades-stream)
+
 Let’s say you want to use gRPC to parse Pumpfun trades with very low latency. What are the steps?
 
 Take this swap for example, https://solscan.io/tx/5ZnJRfkpUTr9PVG1enaQW2uedGPxCkrgwctXFSXt8ST9fEhAsz5wVugq8RPeHTzdqc5Sh6aoPBKHiLwr1giYuLJC
