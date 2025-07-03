@@ -1,4 +1,4 @@
-# How to Parse Pumpfun Trades with gRPC
+# How to Parse Pumpfun Trades with gRPC - Tutorial
 
 > Note: gRPC can be a real headache, but you can skip all the hard parts by using Bitquery's Shred Streams or GraphQL streams. Get started [here](https://ide.bitquery.io/Pumpfun-DEX-Trades-stream)
 
